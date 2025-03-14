@@ -21,4 +21,10 @@ March 15th, 2025
 - You can use <b>Jupyter Lab/Notebook</b> and run <code>main.ipynb</code> file to get to know with the code (Sorry for dirty and messy code).
 - I used the <code>example.png</code> file to replace my presentation.
 
+# Observation
+- There are lots of false sample, mostly because of unclear and mixed features.
+- For some image with clearer features, the idea seem works well to define the liver.
+- I intended to use AI model but then the data is too little to handle the model so I brainstormed with traditional CV techniques.
+
+
 ![Overview](example.png)
